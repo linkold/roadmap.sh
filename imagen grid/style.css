@@ -1,0 +1,21 @@
+.col{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    flex: 1 0 30%;
+}
+.main{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:10px;
+}
+img{
+    width:100%;
+    height:auto;
+    object-fit: cover;
+}
+body{
+    align-items: center;
+    justify-content: center;
+}
