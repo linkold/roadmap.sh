@@ -1,0 +1,109 @@
+.card_1{
+    border: solid black;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin: 10px;
+}
+#img_card_1{
+    width: 55px;
+    height: 55px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+#intro{
+    display: inline-flex;
+    align-items: center;
+}
+#intro p{
+    display:flex;
+    font-size: 25px;
+    margin: 0px;
+}
+#rate{
+    color: yellow;
+}
+#profession{
+    color: gray;
+}
+#profession_1{
+    color: gray;
+    font-size: 18px;
+}
+/*  test2  */
+.card_2{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+#img_card_2{
+    width: 230px;
+    height: 230px;
+    border-radius: 25px;
+    margin-right: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.square{
+    margin: 0px;
+    background-color: black;
+    border: solid black;
+    border-radius: 25px;
+    font-size: 25px;
+    line-height: 5px;
+    padding: 10px;
+    height: fit-content;
+}
+#test{
+    font-size: 16px;
+    line-height: 1.4;
+}
+body{
+    width: 80%;
+}
+#date{
+    color: black;
+    border: 0.5px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    margin-right: 10px;
+}
+#img_card_3_1{
+    border: solid rgba(0, 0, 0, 0);
+    border-radius:  90px;
+    width: 80px;
+    height: 80px;
+}
+#img_card_3_2{
+    border: solid rgba(0, 0, 0, 0);
+    border-radius:  90px;
+    width: 60px;
+    height: 60px;
+    opacity: 0.5;
+}
+#photos{
+    display:inline-flex;
+    align-items: center;
+}
+button{
+    border: 0.5px solid black;
+    border-radius: 20px;
+    background-color: white;
+}
+button:hover{
+    background-color: rgb(231, 213, 190);
+}
+.card_3{
+    border: 0.5px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
